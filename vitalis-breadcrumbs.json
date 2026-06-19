@@ -27,8 +27,8 @@
       }
     ]
   },
-  "/contact": {
-    "id": "contact",
+  "/contact-us": {
+    "id": "contact-us",
     "items": [
       {
         "@type": "ListItem",
@@ -40,7 +40,7 @@
         "@type": "ListItem",
         "position": 2,
         "name": "Contact Us",
-        "item": "https://www.vitalisluxespa.com/contact"
+        "item": "https://www.vitalisluxespa.com/contact-us"
       }
     ]
   },
@@ -109,23 +109,6 @@
         "position": 2,
         "name": "Join Insider List",
         "item": "https://www.vitalisluxespa.com/register"
-      }
-    ]
-  },
-  "/models": {
-    "id": "models",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Model Call",
-        "item": "https://www.vitalisluxespa.com/models"
       }
     ]
   },
@@ -385,69 +368,6 @@
         "position": 4,
         "name": "Microneedling FAQ",
         "item": "https://www.vitalisluxespa.com/microneedling-faq"
-      }
-    ]
-  },
-  "/all-specials": {
-    "id": "all-specials",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Specials",
-        "item": "https://www.vitalisluxespa.com/all-specials"
-      }
-    ]
-  },
-  "/specials-new-client-offer": {
-    "id": "specials-new-client",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Specials",
-        "item": "https://www.vitalisluxespa.com/all-specials"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "20% Off First Visit",
-        "item": "https://www.vitalisluxespa.com/specials-new-client-offer"
-      }
-    ]
-  },
-  "/specials-complimentary-skin-analysis": {
-    "id": "specials-skin-analysis",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Specials",
-        "item": "https://www.vitalisluxespa.com/all-specials"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Complimentary Skin Analysis",
-        "item": "https://www.vitalisluxespa.com/specials-complimentary-skin-analysis"
       }
     ]
   },
@@ -916,6 +836,98 @@
       }
     ]
   },
+  "/skin-care-tips/3d-skin-analysis-medford-ma-what-it-reveals": {
+    "id": "blog-3d-skin-analysis",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Skin Care Tips",
+        "item": "https://www.vitalisluxespa.com/skin-care-tips"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "What Your 3D Skin Analysis Reveals",
+        "item": "https://www.vitalisluxespa.com/skin-care-tips/3d-skin-analysis-medford-ma-what-it-reveals"
+      }
+    ]
+  },
+  "/skin-care-tips/glycolic-lactic-salicylic-find-your-peel": {
+    "id": "blog-find-your-peel",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Skin Care Tips",
+        "item": "https://www.vitalisluxespa.com/skin-care-tips"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Glycolic, Lactic, or Salicylic: Find Your Peel",
+        "item": "https://www.vitalisluxespa.com/skin-care-tips/glycolic-lactic-salicylic-find-your-peel"
+      }
+    ]
+  },
+  "/skin-care-tips/self-care-day-medford-north-of-boston": {
+    "id": "blog-self-care-day",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Skin Care Tips",
+        "item": "https://www.vitalisluxespa.com/skin-care-tips"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "A Self-Care Day in Medford, North of Boston",
+        "item": "https://www.vitalisluxespa.com/skin-care-tips/self-care-day-medford-north-of-boston"
+      }
+    ]
+  },
+  "/skin-care-tips/skin-care-tips/hydrafacial-vs-hydrodermabrasion-medford-ma": {
+    "id": "blog-hydrafacial-vs-hydra",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Skin Care Tips",
+        "item": "https://www.vitalisluxespa.com/skin-care-tips"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "HydraFacial vs Hydradermabrasion in Medford, MA",
+        "item": "https://www.vitalisluxespa.com/skin-care-tips/skin-care-tips/hydrafacial-vs-hydrodermabrasion-medford-ma"
+      }
+    ]
+  },
   "/all-services": {
     "id": "all-services",
     "items": [
@@ -930,6 +942,144 @@
         "position": 2,
         "name": "All Services",
         "item": "https://www.vitalisluxespa.com/all-services"
+      }
+    ]
+  },
+  "/all-services/facials": {
+    "id": "cat-facials",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Facials",
+        "item": "https://www.vitalisluxespa.com/all-services/facials"
+      }
+    ]
+  },
+  "/all-services/peels": {
+    "id": "cat-peels",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Peels",
+        "item": "https://www.vitalisluxespa.com/all-services/peels"
+      }
+    ]
+  },
+  "/all-services/microneedling": {
+    "id": "cat-microneedling",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Microneedling",
+        "item": "https://www.vitalisluxespa.com/all-services/microneedling"
+      }
+    ]
+  },
+  "/all-services/facial-massage": {
+    "id": "cat-facial-massage",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Facial Massage",
+        "item": "https://www.vitalisluxespa.com/all-services/facial-massage"
+      }
+    ]
+  },
+  "/all-services/add-ons": {
+    "id": "cat-add-ons",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Add-Ons",
+        "item": "https://www.vitalisluxespa.com/all-services/add-ons"
+      }
+    ]
+  },
+  "/all-services/packages": {
+    "id": "cat-packages",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Packages",
+        "item": "https://www.vitalisluxespa.com/all-services/packages"
       }
     ]
   },
@@ -979,29 +1129,6 @@
       }
     ]
   },
-  "/customized-facials-medford-ma": {
-    "id": "customized-facials",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "All Services",
-        "item": "https://www.vitalisluxespa.com/all-services"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Customized Facials",
-        "item": "https://www.vitalisluxespa.com/customized-facials-medford-ma"
-      }
-    ]
-  },
   "/enzymatic-peels-medford-ma": {
     "id": "enzymatic-peels",
     "items": [
@@ -1045,52 +1172,6 @@
         "position": 3,
         "name": "Facial Peels",
         "item": "https://www.vitalisluxespa.com/peels-medford-ma"
-      }
-    ]
-  },
-  "/exfoliation-treatments-medford-ma": {
-    "id": "exfoliation",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "All Services",
-        "item": "https://www.vitalisluxespa.com/all-services"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Exfoliation Treatments",
-        "item": "https://www.vitalisluxespa.com/exfoliation-treatments-medford-ma"
-      }
-    ]
-  },
-  "/advanced-exfoliation-medford-ma": {
-    "id": "advanced-exfoliation",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "All Services",
-        "item": "https://www.vitalisluxespa.com/all-services"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Advanced Exfoliation",
-        "item": "https://www.vitalisluxespa.com/advanced-exfoliation-medford-ma"
       }
     ]
   },
@@ -1149,35 +1230,6 @@
         "position": 4,
         "name": "Glow Express Facial",
         "item": "https://www.vitalisluxespa.com/glow-facial-medford-ma"
-      }
-    ]
-  },
-  "/basic-facial-medford-ma": {
-    "id": "basic-facial",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "All Services",
-        "item": "https://www.vitalisluxespa.com/all-services"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Facials",
-        "item": "https://www.vitalisluxespa.com/facials-medford-ma"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Basic Facial",
-        "item": "https://www.vitalisluxespa.com/basic-facial-medford-ma"
       }
     ]
   },
@@ -1344,13 +1396,7 @@
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Exfoliation Treatments",
-        "item": "https://www.vitalisluxespa.com/exfoliation-treatments-medford-ma"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Hydrodermabrasion",
+        "name": "Hydradermabrasion",
         "item": "https://www.vitalisluxespa.com/hydrodermabrasion-medford-ma"
       }
     ]
@@ -1373,72 +1419,8 @@
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Exfoliation Treatments",
-        "item": "https://www.vitalisluxespa.com/exfoliation-treatments-medford-ma"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
         "name": "Precision Dermaplaning",
         "item": "https://www.vitalisluxespa.com/dermaplaning-medford-ma"
-      }
-    ]
-  },
-  "/dermaplaning-medford": {
-    "id": "dermaplaning-alt",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "All Services",
-        "item": "https://www.vitalisluxespa.com/all-services"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Exfoliation Treatments",
-        "item": "https://www.vitalisluxespa.com/exfoliation-treatments-medford-ma"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Precision Dermaplaning",
-        "item": "https://www.vitalisluxespa.com/dermaplaning-medford"
-      }
-    ]
-  },
-  "/relaxing-facial-massage-medford": {
-    "id": "relaxing-massage",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "All Services",
-        "item": "https://www.vitalisluxespa.com/all-services"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Facial Massage",
-        "item": "https://www.vitalisluxespa.com/facial-massage-medford-ma"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Relaxing Facial Massage",
-        "item": "https://www.vitalisluxespa.com/relaxing-facial-massage-medford"
       }
     ]
   },
@@ -1714,37 +1696,14 @@
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Exfoliation Treatments",
-        "item": "https://www.vitalisluxespa.com/exfoliation-treatments-medford-ma"
+        "name": "Hydradermabrasion",
+        "item": "https://www.vitalisluxespa.com/hydrodermabrasion-medford-ma"
       },
       {
         "@type": "ListItem",
         "position": 4,
-        "name": "Hydrodermabrasion FAQ",
+        "name": "Hydradermabrasion FAQ",
         "item": "https://www.vitalisluxespa.com/hydrodermabrasion-faq"
-      }
-    ]
-  },
-  "/specials-signature-facial": {
-    "id": "specials-signature-facial",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Specials",
-        "item": "https://www.vitalisluxespa.com/all-specials"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Signature Facial Special",
-        "item": "https://www.vitalisluxespa.com/specials-signature-facial"
       }
     ]
   },
@@ -1864,23 +1823,6 @@
         "position": 2,
         "name": "Facial Spa in Cambridge",
         "item": "https://www.vitalisluxespa.com/facial-spa-cambridge-ma"
-      }
-    ]
-  },
-  "/facial-spa-everett-ma": {
-    "id": "city-everett",
-    "items": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.vitalisluxespa.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Facial Spa in Everett",
-        "item": "https://www.vitalisluxespa.com/facial-spa-everett-ma"
       }
     ]
   },
@@ -2119,6 +2061,125 @@
         "position": 2,
         "name": "Skin Care Clinic in Medford",
         "item": "https://www.vitalisluxespa.com/skin-care-clinic-medford-ma"
+      }
+    ]
+  },
+  "/free-consultation-medford-ma": {
+    "id": "free-consultation",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Free Consultation",
+        "item": "https://www.vitalisluxespa.com/free-consultation-medford-ma"
+      }
+    ]
+  },
+  "/new-client-offer-medford-ma": {
+    "id": "new-client-offer",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "New Client Offer",
+        "item": "https://www.vitalisluxespa.com/new-client-offer-medford-ma"
+      }
+    ]
+  },
+  "/medical-spa-medford-ma": {
+    "id": "term-medicalspa",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Medical Spa in Medford",
+        "item": "https://www.vitalisluxespa.com/medical-spa-medford-ma"
+      }
+    ]
+  },
+  "/spa-packages-medford-ma": {
+    "id": "spa-packages",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Spa Packages",
+        "item": "https://www.vitalisluxespa.com/spa-packages-medford-ma"
+      }
+    ]
+  },
+  "/spa-membership-medford-ma": {
+    "id": "spa-membership",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Memberships",
+        "item": "https://www.vitalisluxespa.com/spa-membership-medford-ma"
+      }
+    ]
+  },
+  "/esteticista-brasileira-medford-ma": {
+    "id": "esteticista-brasileira",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Esteticista Brasileira em Medford, MA",
+        "item": "https://www.vitalisluxespa.com/esteticista-brasileira-medford-ma"
+      }
+    ]
+  },
+  "/esteticista-espanol-medford-ma": {
+    "id": "esteticista-espanol",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Esteticista en Espanol, Medford MA",
+        "item": "https://www.vitalisluxespa.com/esteticista-espanol-medford-ma"
       }
     ]
   }
