@@ -2182,5 +2182,92 @@
         "item": "https://www.vitalisluxespa.com/esteticista-espanol-medford-ma"
       }
     ]
+  },
+  "/all-services/p/microneedling-exosomes-medford-ma": {
+    "id": "exosome-microneedling",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Microneedling",
+        "item": "https://www.vitalisluxespa.com/microneedling-medford-ma"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Exosome Regeneration Microneedling",
+        "item": "https://www.vitalisluxespa.com/all-services/p/microneedling-exosomes-medford-ma"
+      }
+    ]
+  },
+  "/all-services/p/nanoneedling-hydra-infusion-medford-ma": {
+    "id": "nanoneedling-hydra",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Microneedling",
+        "item": "https://www.vitalisluxespa.com/microneedling-medford-ma"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Nanoneedling Hydra Infusion",
+        "item": "https://www.vitalisluxespa.com/all-services/p/nanoneedling-hydra-infusion-medford-ma"
+      }
+    ]
+  },
+  "/all-services/p/advanced-nanoneedling-medford-ma": {
+    "id": "nanoneedling-luxe",
+    "items": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.vitalisluxespa.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "All Services",
+        "item": "https://www.vitalisluxespa.com/all-services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Microneedling",
+        "item": "https://www.vitalisluxespa.com/microneedling-medford-ma"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Nanoneedling Luxe Infusion",
+        "item": "https://www.vitalisluxespa.com/all-services/p/advanced-nanoneedling-medford-ma"
+      }
+    ]
   }
 }
